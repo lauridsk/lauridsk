@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lauridsk
 - 👀 I’m interested in data analysis with SQL and Python
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me 
 
 <!---
