@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis with SQL and Python
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me 
+- 📫 You can reach me on e-mail lauridsk@outlook.dk
 
 <!---
 lauridsk/lauridsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
