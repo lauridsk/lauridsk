@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lauridsk
-- 👀 I’m interested in data analysis with SQL and Python
+- 👀 I’m interested in data analysis with Excel, SQL, PowerBI/Tableau & Python
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 You can reach me on e-mail lauridsk@outlook.dk
